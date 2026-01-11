@@ -1,0 +1,8 @@
+{
+  "name": "learning-node",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "ms": "^2.1.3"
+  }
+}

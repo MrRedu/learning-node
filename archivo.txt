@@ -1,0 +1,4 @@
+¡Hola!
+Este es el contenido de archivo.txt
+
+¡Épale!
